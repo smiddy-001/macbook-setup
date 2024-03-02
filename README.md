@@ -1,6 +1,8 @@
 # Rileys magnificant macbook setup script
 
-assuming the latest mac version, simply run in the terminal
+3rd of March, 2024
+
+works on mac sonoma 14.1.1, Apple silicone (M1, M2, ...) but should be fine on mac intel chips too
 
 ### 1.
 
