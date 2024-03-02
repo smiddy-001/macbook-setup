@@ -5,7 +5,7 @@ assuming the latest mac version, simply run in the terminal
 ### 1.
 
 ```bash
-git clone https://github.com/smiddy-001/macbook-setup/tree/main?tab=readme-ov-file ~/Desktop && bash ~/Desktop/macbook-setpup/setup.sh
+mkdir -p ~/Desktop/rileys-macbook-setup-script && cd ~/Desktop/rileys-macbook-setup-script && git clone https://github.com/smiddy-001/macbook-setup/tree/main?tab=readme-ov-file ./ && bash ./macbook-setpup/setup.sh
 ```
 
 ### 2.
