@@ -5,11 +5,7 @@ assuming the latest mac version, simply run in the terminal
 ### 1.
 
 ```bash
-mkdir -p ~/Desktop/rileys-macbook-setup-script && cd ~/Desktop/rileys-macbook-setup-script
-
-git clone git@github.com:smiddy-001/macbook-setup.git ~/Desktop/rileys-macbook-setup-script
-
-bash ~/Desktop/rileys-macbook-setup-script/macbook-setpup/setup.sh
+mkdir -p ~/Desktop/rileys-macbook-setup-script && cd ~/Desktop/rileys-macbook-setup-script && git clone https://github.com/smiddy-001/macbook-setup.git ~/Desktop/rileys-macbook-setup-script && bash ~/Desktop/rileys-macbook-setup-script/setup.sh
 ```
 
 ### 2.
