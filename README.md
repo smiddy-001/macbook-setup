@@ -1,4 +1,4 @@
-# My magnificant macbook setup script
+# My macbook setup script
 
 3rd of March, 2024
 
